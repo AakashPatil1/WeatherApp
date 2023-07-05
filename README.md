@@ -13,7 +13,7 @@ The Weather App is a powerful and intuitive Android application that provides us
 ## Technologies Used
 
 - Android Development: Java/Kotlin for Android app development.
-- API Integration: Utilize a weather data API (such as OpenWeatherMap or WeatherAPI) to retrieve real-time weather information.
+- API Integration: Utilize a weather data API ( OpenWeatherMap ) to retrieve real-time weather information.
 - Network Requests: Implement network requests to fetch data from the API and handle responses.
 - Location Services: Utilize Android's location services to obtain the user's current GPS coordinates for accurate weather data.
 
